@@ -1,0 +1,12 @@
+test_CP01_inscripcion_valida_guarda_y_actualiza_cupos (test_pmv1.PMV1Tests.test_CP01_inscripcion_valida_guarda_y_actualiza_cupos) ... ok
+test_CP02_nombre_vacio_se_rechaza (test_pmv1.PMV1Tests.test_CP02_nombre_vacio_se_rechaza) ... ok
+test_CP03_correo_invalido_se_rechaza (test_pmv1.PMV1Tests.test_CP03_correo_invalido_se_rechaza) ... ok
+test_CP04_correo_duplicado_se_rechaza (test_pmv1.PMV1Tests.test_CP04_correo_duplicado_se_rechaza) ... ok
+test_CP05_prediccion_devuelve_probabilidad_y_nivel (test_pmv1.PMV1Tests.test_CP05_prediccion_devuelve_probabilidad_y_nivel) ... ok
+test_CP06_filtro_por_distrito (test_pmv1.PMV1Tests.test_CP06_filtro_por_distrito) ... ok
+test_CP07_actividad_inexistente (test_pmv1.PMV1Tests.test_CP07_actividad_inexistente) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.108s
+
+OK

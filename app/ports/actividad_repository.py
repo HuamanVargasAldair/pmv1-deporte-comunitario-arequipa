@@ -1,0 +1,9 @@
+from abc import ABC, abstractmethod
+
+class ActividadRepository(ABC):
+    @abstractmethod
+    def listar(self, distrito=None, deporte=None): ...
+    @abstractmethod
+    def obtener(self, actividad_id): ...
+    @abstractmethod
+    def inscribir(self, actividad_id, nombre, correo): ...
